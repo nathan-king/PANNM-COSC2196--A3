@@ -3818,7 +3818,7 @@ body.is-ie #sidebar > .inner {
   -webkit-transition: opacity 0.15s ease, -webkit-transform 0.75s ease;
   -ms-transition: opacity 0.15s ease, -ms-transform 0.75s ease;
   transition: opacity 0.15s ease, transform 0.75s ease;
-  margin: 0.5em 0 0 0;
+  margin: 0.5em 0 0.5em 0;
   opacity: 1;
   padding: 0;
   position: relative;
@@ -4040,7 +4040,7 @@ body.is-preload #sidebar nav ul li {
 
 @media screen and (max-width: 1280px) {
   #sidebar {
-    height: 1.5em;
+    height: 2em;
     left: 0;
     line-height: 2em;
     overflow: hidden;
