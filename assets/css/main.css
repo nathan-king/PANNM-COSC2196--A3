@@ -4040,9 +4040,9 @@ body.is-preload #sidebar nav ul li {
 
 @media screen and (max-width: 1280px) {
   #sidebar {
-    height: 3em;
+    height: 2.5em;
     left: 0;
-    line-height: 3em;
+    line-height: 2.5em;
     overflow: hidden;
     padding: 0;
     text-align: center;
