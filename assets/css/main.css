@@ -3731,7 +3731,7 @@ body.is-preload .wrapper.fade > .inner {
 /* Footer */
 
 #sidebar + #wrapper + #footer {
-  margin-left: 18em;
+  margin-left: 22em;
 }
 
 @media screen and (max-width: 1280px) {
@@ -3770,7 +3770,7 @@ body.is-preload .wrapper.fade > .inner {
   position: fixed;
   text-align: right;
   top: 0;
-  width: 18em;
+  width: 22em;
   z-index: 10000;
 }
 
@@ -3979,7 +3979,7 @@ body.is-ie #sidebar > .inner {
   font-size: 0.6em;
   font-weight: bold;
   letter-spacing: 0.25em;
-  line-height: 1.75;
+  line-height: 2.0;
   outline: 0;
   padding: 0.35em 0;
   position: relative;
@@ -4042,7 +4042,7 @@ body.is-preload #sidebar nav ul li {
   #sidebar {
     height: 1.5em;
     left: 0;
-    line-height: 1.5em;
+    line-height: 2em;
     overflow: hidden;
     padding: 0;
     text-align: center;
