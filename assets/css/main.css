@@ -3979,7 +3979,7 @@ body.is-ie #sidebar > .inner {
   font-size: 0.6em;
   font-weight: bold;
   letter-spacing: 0.25em;
-  line-height: 2.0;
+  line-height: 3.0;
   outline: 0;
   padding: 0.35em 0 0.35em 0;
   position: relative;
@@ -4040,9 +4040,9 @@ body.is-preload #sidebar nav ul li {
 
 @media screen and (max-width: 1280px) {
   #sidebar {
-    height: 2em;
+    height: 3em;
     left: 0;
-    line-height: 2em;
+    line-height: 3em;
     overflow: hidden;
     padding: 0;
     text-align: center;
