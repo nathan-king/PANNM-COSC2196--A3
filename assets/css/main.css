@@ -3700,8 +3700,8 @@ body.is-preload .wrapper.fade > .inner {
   }
 
   #header > nav > ul > li a {
-    height: 6em;
-    line-height: 6em;
+    height: 4em;
+    line-height: 4em;
   }
 }
 
