@@ -3731,7 +3731,7 @@ body.is-preload .wrapper.fade > .inner {
 /* Footer */
 
 #sidebar + #wrapper + #footer {
-  margin-left: 25em;
+  margin-left: 20em;
 }
 
 @media screen and (max-width: 1280px) {
@@ -3770,7 +3770,7 @@ body.is-preload .wrapper.fade > .inner {
   position: fixed;
   text-align: right;
   top: 0;
-  width: 25em;
+  width: 20em;
   z-index: 10000;
 }
 
