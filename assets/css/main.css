@@ -3658,7 +3658,7 @@ body.is-preload .wrapper.fade > .inner {
   border: 0;
   color: rgba(255, 255, 255, 0.35);
   display: inline-block;
-  font-size: 0.4em;
+  font-size: 0.6em;
   font-weight: bold;
   letter-spacing: 0.25em;
   text-transform: uppercase;
@@ -3674,7 +3674,7 @@ body.is-preload .wrapper.fade > .inner {
 
 @media screen and (max-width: 736px) {
   #header {
-    padding: 1em 2em;
+    padding: 0.75em 0.75em;
   }
 }
 
