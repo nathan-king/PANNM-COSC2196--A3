@@ -682,11 +682,11 @@ hr.major {
 }
 
 .row > .col-4 {
-  width: 33.33333%;
+  width: 33%;
 }
 
 .row > .off-4 {
-  margin-left: 33.33333%;
+  margin-left: 333%;
 }
 
 .row > .col-5 {
@@ -924,7 +924,7 @@ hr.major {
   }
 
   .row > .col-4-xlarge {
-    width: 33.33333%;
+    width: 33%;
   }
 
   .row > .off-4-xlarge {
@@ -1167,7 +1167,7 @@ hr.major {
   }
 
   .row > .col-4-large {
-    width: 33.33333%;
+    width: 33%;
   }
 
   .row > .off-4-large {
@@ -1414,7 +1414,7 @@ hr.major {
   }
 
   .row > .off-4-medium {
-    margin-left: 33.33333%;
+    margin-left: 33%;
   }
 
   .row > .col-5-medium {
@@ -1653,11 +1653,11 @@ hr.major {
   }
 
   .row > .col-4-small {
-    width: 33.33333%;
+    width: 33%;
   }
 
   .row > .off-4-small {
-    margin-left: 33.33333%;
+    margin-left: 33%;
   }
 
   .row > .col-5-small {
@@ -1896,7 +1896,7 @@ hr.major {
   }
 
   .row > .col-4-xsmall {
-    width: 33.33333%;
+    width: 33%;
   }
 
   .row > .off-4-xsmall {
