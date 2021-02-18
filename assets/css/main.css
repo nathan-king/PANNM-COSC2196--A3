@@ -682,11 +682,11 @@ hr.major {
 }
 
 .row > .col-4 {
-  width: 33.3%;
+  width: 33%;
 }
 
 .row > .off-4 {
-  margin-left: 0%;
+  margin-left: 33%;
 }
 
 .row > .col-5 {
@@ -1900,7 +1900,7 @@ hr.major {
   }
 
   .row > .off-4-xsmall {
-    margin-left: 0;
+    margin-left: 33.33333%;
   }
 
   .row > .col-5-xsmall {
@@ -2173,7 +2173,7 @@ input[type="reset"].small,
 input[type="button"].small,
 button.small,
 .button.small {
-  font-size: 0.7em;
+  font-size: 0.4em;
 }
 
 input[type="submit"].large,
