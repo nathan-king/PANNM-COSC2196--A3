@@ -2155,6 +2155,7 @@ button,
   text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
+  width: 100%;
 }
 
 .button-orange {
@@ -2185,6 +2186,7 @@ button,
   text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
+  width: 100%;
 }
 
 .button-green {
@@ -2215,6 +2217,7 @@ button,
   text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
+  width: 100%;
 }
 
 input[type="submit"]:after,
