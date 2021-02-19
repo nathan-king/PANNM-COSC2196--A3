@@ -54,16 +54,16 @@ img {
   float: left;
   margin: 0 0.5em 0 0;
   top: 0.25em;
-  width: 150px;
-  height: 180px;
+  width: 175px;
+  height: 210px;
 }
 
 .image.right.small {
   float: right;
   margin: 0 0 0 0.5em;
   top: 0.25em;
-  width: 100px;
-  height: 120px;
+  width: 175px;
+  height: 210px;
 }
 .app-container {
   display: flex;
