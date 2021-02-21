@@ -20,6 +20,14 @@ img {
   text-align: justify !important;
 }
 
+tr th {
+  font-size: 1.25rem !important;
+}
+
+tr td {
+  font-size: 1.25rem !important;
+}
+
 .heading {
   padding: 2rem;
   text-align: center;
@@ -2897,7 +2905,7 @@ input[type="radio"] + label:before {
 }
 
 .wrapper.style1 .icon.major:before {
-  color: #6E70D3; /* Lighter Purple */
+  color: #6e70d3; /* Lighter Purple */
 }
 
 .wrapper.style1-alt .icon.major:before {
@@ -3584,7 +3592,7 @@ table.alt tfoot {
 }
 
 .wrapper.style1 {
-  background-color: #5052B5;
+  background-color: #5052b5;
 }
 
 .wrapper.style1-alt {
@@ -3592,7 +3600,7 @@ table.alt tfoot {
 }
 
 .wrapper.style2 {
-  background-color: #4863A0;
+  background-color: #4863a0;
 }
 
 .wrapper.style2-alt {
@@ -3600,7 +3608,7 @@ table.alt tfoot {
 }
 
 .wrapper.style3 {
-  background-color: #4863A0;
+  background-color: #4863a0;
 }
 
 .wrapper.style3-alt {
